@@ -1,4 +1,4 @@
-# Project base learning (PBL)
+# Project based learning (PBL)
 ### Topic: HealthBot- Your Personal Health Assistant
 
 This repository contains a HealthBot, your personal health assistant powered by AI. The bot is capable of suggesting medicines based on symptoms, examining X-rays to detect fractures, arranging video consultations with doctors, and providing information about nearby hospitals.
